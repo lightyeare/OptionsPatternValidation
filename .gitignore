@@ -351,3 +351,5 @@ MigrationBackup/
 
 # JetBrains
 .idea/
+
+examples/OptionsPatternMvc.Example/OpvExample1.db
